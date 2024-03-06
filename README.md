@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" />
+<img align="right" src="https://preview.redd.it/eyilbh2skopz.gif?width=500&format=mp4&s=a621e3eacc5ca59bb57434fadbade897870ff0aa" />
 
 ## :wave: Hi 👋, I'm Praveen
 
