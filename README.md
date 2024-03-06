@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://mystryus/create-gif-animation-2d-anime-style.gif" />
+<img align="right" src="https://media1.tenor.com/m/lJ9fVD2Xh90AAAAC/typing-computer.gif" />
 
 ## :wave: Hi 👋, I'm Praveen
 
