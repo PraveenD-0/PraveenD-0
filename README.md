@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.tenor.com/F71v8uCp1kkAAAAM/madara-laptop-madara-fast-reading.gif" />
 
-## :wave: Hi 👋, I'm Praveen
+<h1>👋 Hi 👋, I'm Praveen</h1> 
 
 ### :man_technologist: About Me :
 Possessing proficiency in Java, JavaScript, and React.js, along with a strong background in Full Stack Development, I am well-prepared to make significant contributions to innovative projects within dynamic tech environments. My dedication to continuous learning ensures that I stay updated with the latest advancements in the field, enabling me to deliver exceptional results.
