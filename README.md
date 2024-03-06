@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f5fa1cd3af4a159a1bd1f6f82abbde6e-1677567361/mystryus/create-gif-animation-2d-anime-style.gif" />
+<img align="right" src="https://mystryus/create-gif-animation-2d-anime-style.gif" />
 
 ## :wave: Hi 👋, I'm Praveen
 
@@ -36,7 +36,7 @@ Possessing proficiency in Java, JavaScript, and React.js, along with a strong ba
   <h3> IDE : </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="intelliJ" alt="intelliJ" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="50" height="50"/>&nbsp;
+
   
   <h3> Databases and Languages : </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL"  alt="mySQL" width="50" height="50"/>&nbsp;
