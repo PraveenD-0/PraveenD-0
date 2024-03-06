@@ -1,6 +1,6 @@
 
 
-<img align="right" width= "200" src="https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif" />
+<img align="right" width= "200" src="https://media.tenor.com/lKFf61bUBkwAAAAM/deadpool-work.gif" />
 
 <h1>👋 Hi 👋, I'm Praveen</h1> 
 
