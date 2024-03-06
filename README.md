@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://media.tenor.com/F71v8uCp1kkAAAAM/madara-laptop-madara-fast-reading.gif" />
+<img align="right" width= "200" src="https://media.tenor.com/F71v8uCp1kkAAAAM/madara-laptop-madara-fast-reading.gif" />
 
 <h1>👋 Hi 👋, I'm Praveen</h1> 
 
