@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
+<!-- <div id="header" align="center">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f5fa1cd3af4a159a1bd1f6f82abbde6e-1677567361/mystryus/create-gif-animation-2d-anime-style.gif" width="300"/>
+</div> -->
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveend-0&label=Profile%20views&color=0e75b6&style=flat" alt="praveend-0" /> </p>
