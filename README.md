@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://preview.redd.it/eyilbh2skopz.gif?width=500&format=mp4&s=a621e3eacc5ca59bb57434fadbade897870ff0aa" />
+<img align="right" src="https://media.tenor.com/F71v8uCp1kkAAAAM/madara-laptop-madara-fast-reading.gif" />
 
 ## :wave: Hi 👋, I'm Praveen
 
