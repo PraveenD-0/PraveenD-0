@@ -3,7 +3,7 @@
 <img align="right" src="https://media.tenor.com/lKFf61bUBkwAAAAd/deadpool-work.gif" style="width: 350px;" />
 
 
-<h1>👋 Hi 👋, I'm Praveen</h1> 
+<p><h1>👋 Hi 👋, I'm Praveen</h1></p>
 
 <h3>👨‍💻 About Me :</h3> 
 Possessing proficiency in Java, JavaScript, and React.js, along with a strong background in Full Stack Development, I am well-prepared to make significant contributions to innovative projects within dynamic tech environments. My dedication to continuous learning ensures that I stay updated with the latest advancements in the field, enabling me to deliver exceptional results.
