@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://media.tenor.com/lKFf61bUBkwAAAAM/deadpool-work.gif" style="width: 300px;" />
+<img align="right" src="https://media.tenor.com/lKFf61bUBkwAAAAM/deadpool-work.gif" style="width: 350px;" />
 
 
 <h1>👋 Hi 👋, I'm Praveen</h1> 
