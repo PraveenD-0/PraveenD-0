@@ -9,7 +9,7 @@
 Possessing proficiency in Java, JavaScript, and React.js, along with a strong background in Full Stack Development, I am well-prepared to make significant contributions to innovative projects within dynamic tech environments. My dedication to continuous learning ensures that I stay updated with the latest advancements in the field, enabling me to deliver exceptional results.
 
 
-## :hammer_and_wrench: Languages and Tools :
+<h2>🛠️ Languages and Tools :</h2> 
 <div>
   <h3> Languages : </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
