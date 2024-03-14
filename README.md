@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://i.giphy.com/3NE7JhJgZBHlMfmNEa.webp" width="400" style="border: 2px solid black;" />
+<img align="right" src="https://i.giphy.com/3NE7JhJgZBHlMfmNEa.webp" width="450" style="border: 2px solid black;" />
 
 
 
