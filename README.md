@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://animesher.com/orig/0/70/703/7031/animesher.com_terror-in-tokyo-glasses-gif-703126.gif" style="width: 400px; border: 2px solid black;" />
+<img align="right" src="Terror in Tokyo Glasses GIF" style="width: 400px; border: 2px solid black;" />
 
 
 
