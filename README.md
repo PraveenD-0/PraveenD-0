@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://media.tenor.com/lKFf61bUBkwAAAAM/deadpool-work.gif" style="width: 400px; border: 2px solid black;" />
+<img align="right" src="https://media.tenor.com/MtyhofpZlZQAAAAM/beomgyu-cinnasoob.gif" style="width: 400px; border: 2px solid black;" />
 
 
 
@@ -28,7 +28,6 @@ Possessing proficiency in Java, JavaScript, and React.js, along with a strong ba
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="50" height="50"/>&nbsp;
   
   <h3> Frameworks : </h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="50" height="50"/>&nbsp;
   
   <h3> Cloud Technologies : </h3>
