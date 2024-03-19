@@ -1,7 +1,6 @@
 
 
-<img align="right" src="https://i.giphy.com/3NE7JhJgZBHlMfmNEa.webp" width="450" style="border: 2px solid black;" />
-
+<img align="right" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="450" style="border: 2px solid black;" />
 
 
 <h1>👋 Hi 👋, I'm Praveen</h1>
