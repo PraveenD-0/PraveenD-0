@@ -29,7 +29,8 @@ Possessing proficiency in Java, JavaScript, and React.js, along with a strong ba
   
   <h3> Frameworks : </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="50" height="50"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="50" height="50"/>
+
   <h3> Cloud Technologies : </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="50" height="50"/>&nbsp;
   
@@ -37,6 +38,8 @@ Possessing proficiency in Java, JavaScript, and React.js, along with a strong ba
   <h3> IDE : </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="intelliJ" alt="intelliJ" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="eclipse" alt="eclipse" width="50" height="50"/>
+
 
   
   <h3> Databases and Languages : </h3>
