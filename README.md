@@ -27,6 +27,7 @@ Possessing proficiency in Java, JavaScript, and React.js, along with a strong ba
   
   <h3> Library : </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="AngularJS" alt="AngularJS" width="50" height="50"/>
   
   <h3> Frameworks : </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="50" height="50"/>&nbsp;
